@@ -5,9 +5,7 @@
 [![instagran](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/mattosvitor_8)
 [![instagran](    https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitor-mattos-1bb008337)
 
-![Mattos GitHub stats](https://github-readme-stats.vercel.app/api?username=vitorichmattos-coder&show_icons=true&theme=radical)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vitorichmattos-coder)](https://github.com/anuraghazra/github-readme-stats)
+![Mattos GitHub stats](https://github-readme-stats.vercel.app/api?username=vitorichmattos-coder&show_icons=true&theme=radical)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vitorichmattos-coder)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## Tecnologias que eu uso no meu dia
